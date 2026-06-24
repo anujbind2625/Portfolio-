@@ -22,20 +22,23 @@ footer{text-align:center;padding:20px;background:#1a1a2e;color:#aaa;}
 <body>
 <header>
 <h1>Anuj Kumar Bind</h1>
-<p>MCA AI/ML Student | Web Developer | Freelancer</p>
+<p>MCA Cloud Cybersecurity Student | Web Developer | Freelancer</p>
 <p>📍 Ghazipur, Uttar Pradesh, India</p>
 <a class="btn" href="mailto:anujbind2625@gmail.com">Hire Me</a>
 </header>
 <section>
 <h2>🛠️ Skills</h2>
 <div class="skills">
-<span class="skill">React</span>
-<span class="skill">HTML5</span>
-<span class="skill">CSS3</span>
-<span class="skill">Bootstrap</span>
+<span class="skill">Network Security</span>
+<span class="skill">Cloud Security (AWS)</span>
+<span class="skill">Cyber Forensics</span>
+<span class="skill">Kali Linux</span>
+<span class="skill">Splunk (SIEM)</span>
 <span class="skill">Python</span>
 <span class="skill">C++</span>
-<span class="skill">Machine Learning</span>
+<span class="skill">HTML5</span>
+<span class="skill">CSS3</span>
+<span class="skill">React</span>
 </div>
 </section>
 <section>
@@ -43,6 +46,10 @@ footer{text-align:center;padding:20px;background:#1a1a2e;color:#aaa;}
 <div class="project">
 <h3>Portfolio Website</h3>
 <p>Personal portfolio built with HTML, CSS. Shows skills and projects.</p>
+</div>
+<div class="project">
+<h3>Cloud Security Research (In Progress)</h3>
+<p>Working towards an IEEE conference paper on cloud cybersecurity as part of PhD application prep.</p>
 </div>
 </section>
 <section>
